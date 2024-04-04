@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Basics",
+            "slug": "guitar-basics",
+            "description": "Learn the fundamentals of playing the guitar, including chords, scales, and strumming techniques.",
+            "price": 29.99,
+            "instructor": "John Smith",
+            "is_featured": true,
+            "image": "https://example.com/guitar-basics.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano Masterclass",
+            "slug": "piano-masterclass",
+            "description": "Unlock the secrets of playing the piano like a pro, from beginner to advanced techniques.",
+            "price": 39.99,
+            "instructor": "Emily Johnson",
+            "is_featured": false,
+            "image": "https://example.com/piano-masterclass.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Music Theory Essentials",
+            "slug": "music-theory-essentials",
+            "description": "Gain a solid understanding of music theory, including notes, scales, intervals, and harmony.",
+            "price": 24.99,
+            "instructor": "Michael Williams",
+            "is_featured": true,
+            "image": "https://example.com/music-theory-essentials.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Violin Fundamentals",
+            "slug": "violin-fundamentals",
+            "description": "Start your journey into playing the violin with essential techniques and exercises.",
+            "price": 34.99,
+            "instructor": "Sarah Davis",
+            "is_featured": false,
+            "image": "https://example.com/violin-fundamentals.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Singing for Beginners",
+            "slug": "singing-for-beginners",
+            "description": "Discover the joy of singing and develop your voice with proper breathing and vocal exercises.",
+            "price": 19.99,
+            "instructor": "David Lee",
+            "is_featured": true,
+            "image": "https://example.com/singing-for-beginners.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Drumming Essentials",
+            "slug": "drumming-essentials",
+            "description": "Learn the basics of drumming, including rhythm, beats, and coordination.",
+            "price": 27.99,
+            "instructor": "Mark Johnson",
+            "is_featured": false,
+            "image": "https://example.com/drumming-essentials.jpg"
+        }
+    ]
+}
